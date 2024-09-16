@@ -1,6 +1,6 @@
 # House Prices
-This repository was created to explain a Kaggle project.
-Esse repositorio foi feito para explicar o projeto do Kaggle.
+- This repository was created to explain a Kaggle project.
+- Esse repositorio foi feito para explicar o projeto do Kaggle.
 
 ## Stage 1: First model
 In this stage we:
